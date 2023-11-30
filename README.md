@@ -5,6 +5,10 @@
 <p align="center">I'm a third-year Software Engineering student at the Open University of Sri Lanka! </p>
 
 <p align="center"> 🌐 Socials:</p>
+<p align="center">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+  <script type="IN/Share" data-url="https://linkedin.com/in/mgkshavinda"></script>
+</p>
 <p align="center">[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kavindushavinda) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavindu.shavinda.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavindu.96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgkshavinda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kavindush)</p>
 
 <p align="center"> 💻 Tech Stack:</p>
