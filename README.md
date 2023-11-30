@@ -1,8 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently studying at Open University Sri Lanka<br>🌱 I’m currently learning React, Python<br>💬Feel free to ask me about front-end web development<br>📫 How to reach me mgkshavinda@gmail.com<br>⚡ Fun fact about me is that I'm a Geek and a huge fan of movies, TV Series, enjoy reading books, travelling, and I'm a big foodie!<br>
 
+<p align="center"><h1 align="center">Hi! <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="40" height="40"/></h1>
+<p align="center">I'm a third-year Software Engineering student at the Open University of Sri Lanka! </p>
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kavindushavinda) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/kavindu.shavinda.10) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavindu.96) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mgkshavinda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@kavindush) 
 
 # 💻 Tech Stack:
