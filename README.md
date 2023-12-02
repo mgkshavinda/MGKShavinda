@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently studying at Open University Sri Lanka<br>🌱 I’m currently learning React, Python<br>💬Feel free to ask me about front-end web development<br>📫 How to reach me mgkshavinda@gmail.com<br>⚡ Fun fact about me is that I'm a Geek and a huge fan of movies, TV Series, enjoy reading books, travelling, and I'm a big foodie!<br>
 
- <p align="center"><img src="https://imgur.com/sh07vdn"/></p>
+ <p align="center"><a href="https://imgur.com/sh07vdn"><img src="https://i.imgur.com/sh07vdn.png" title=" " /></a></p>
 
 <p align="center"><h1 align="center">Hi! <img src="https://media.giphy.com/media/8XaBSsyQaYFxxNqznU/giphy.gif" width="40" height="40"/></h1>
 <p align="center">I'm a third-year Software Engineering student at the Open University of Sri Lanka! </p>
