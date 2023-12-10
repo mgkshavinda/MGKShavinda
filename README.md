@@ -7,6 +7,10 @@
 
 > ### <sup> ABOUT ME </sup>
 
+<div align=center>
+ ***I'm a third-year Software Engineering student at the Open University of Sri Lanka!***
+</div>
+
 <p align="center">I'm a third-year Software Engineering student at the Open University of Sri Lanka! </p>
 
 <p align="center"><a href="https://linkedin.com/in/mgkshavinda"><img src="https://i.imgur.com/1HtFi4b.png" width="60" height="20"/></p>
@@ -16,7 +20,9 @@
 <div align=center>
   
 ***Responsive Web Design*** | ***User Experience*** | ***Data Science*** | ***Cloud*** | ***Database***
-  
+
+</div>
+ 
 #
 <br/>
 
