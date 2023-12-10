@@ -17,10 +17,10 @@
   
 ***Responsive Web Design*** | ***User Experience*** | ***Data Science*** | ***Cloud*** | ***Database***
   
+#
 <br/>
 
-<div align=left>
-> ### <sup> TECHNOLIGIES </sup>
+> ### <sup> TECHNOLOGIES </sup>
 
 <br/>
 
