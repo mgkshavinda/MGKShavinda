@@ -28,16 +28,18 @@
 
 <div align=center>
 
-![github](https://www.vectorlogo.zone/logos/java/java-vertical.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/python/python-icon.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg) &nbsp;
+![github](https://www.vectorlogo.zone/logos/figma/figma-icon.svg) &nbsp;
+![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) &nbsp;
+![github](https://cdn.worldvectorlogo.com/logos/django.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) &nbsp;
 
 </div>
