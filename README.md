@@ -15,7 +15,7 @@
 
 <div align=center>
   
-***Responsive Web Design*** | ***User Experience*** | ***Data Science*** | ***Cloud*** | ***Database***
+***Responsive Web Design*** | ***UI*** | ***UX*** | ***Cloud*** | ***Database***
 
 </div>
  
