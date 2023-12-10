@@ -7,10 +7,6 @@
 
 > ### <sup> ABOUT ME </sup>
 
-<div align=center>
- ***I'm a third-year Software Engineering student at the Open University of Sri Lanka!***
-</div>
-
 <p align="center">I'm a third-year Software Engineering student at the Open University of Sri Lanka! </p>
 
 <p align="center"><a href="https://linkedin.com/in/mgkshavinda"><img src="https://i.imgur.com/1HtFi4b.png" width="60" height="20"/></p>
@@ -33,7 +29,6 @@
 <div align=center>
 
 ![github](https://www.vectorlogo.zone/logos/java/java-vertical.svg) &nbsp;
-![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg) &nbsp;
@@ -43,6 +38,7 @@
 ![github](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/python/python-icon.svg) &nbsp;
 ![github](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg) &nbsp;
+![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg) &nbsp;
 
 </div>
 
