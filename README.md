@@ -9,27 +9,34 @@
 
 <p align="center">I'm a third-year Software Engineering student at the Open University of Sri Lanka! </p>
 
- <p align="center"><a href="https://linkedin.com/in/mgkshavinda"><img src="https://i.imgur.com/1HtFi4b.png" width="60" height="20"/></p>
+<p align="center"><a href="https://linkedin.com/in/mgkshavinda"><img src="https://i.imgur.com/1HtFi4b.png" width="60" height="20"/></p>
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+> ### <sup> SKILLS & EXPERIENCES </sup>
 
-> ### <sup> TOOLS </sup>
+<div align=center>
+  
+***Responsive Web Design*** | ***User Experience*** | ***Data Science*** | ***Cloud***| ***Database***
+  
+<br/>
+
+> ### <sup> TECHNOLIGIES </sup>
 
 <br/>
 
 <div align=center>
 
-![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![github](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
-![github](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg)
+![github](https://www.vectorlogo.zone/logos/java/java-vertical.svg)
 ![github](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
-![github](https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg)
-![github](https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg)
+![github](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg)
+![github](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![github](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
+![github](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg)
+![github](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)
+![github](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)
+![github](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
 ![github](https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg)
+![github](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![github](https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg)
 
 </div>
 
